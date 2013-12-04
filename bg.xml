@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<bg>
+	<img src="pics/spietro.png" title="Roma. S.Pietro" thumb="pics/thumbs/spietro.jpg" />
+	<img src="pics/milano.png" title="Milano. Sforzesco." thumb="pics/thumbs/milano.jpg" />
+	<img src="pics/assisi.png" title="Assisi. Basilica." thumb="pics/thumbs/assisi.jpg" />
+	<img src="pics/verona.png" title="Verona. Arena." thumb="pics/thumbs/verona.jpg" />
+	<img src="pics/firenze.png" title="Firenze. P.Vecchio." thumb="pics/thumbs/firenze.jpg" />
+	<img src="pics/london.png" title="London. Tower Bridge." thumb="pics/thumbs/london.jpg" />
+	<img src="pics/parigi.png" title="Parigi. Torre Eifell." thumb="pics/thumbs/parigi.jpg" />
+	<img src="pics/budapest.png" title="Budapest." thumb="pics/thumbs/budapest.jpg" />
+	<img src="pics/space.png" title="Spazio." thumb="pics/thumbs/space.jpg" />
+</bg>
+
